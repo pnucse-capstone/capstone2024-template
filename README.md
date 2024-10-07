@@ -11,7 +11,7 @@
 ## 1. 레파지토리 생성
 - [https://classroom.github.com/a/iX0VWqGp](https://classroom.github.com/a/iX0VWqGp)
 - 위 Github Classroom 링크에 접속해 본인 조의 github 레파지토리를 생성하세요.
-<img src="https://github.com/user-attachments/assets/4593f107-f037-4951-828b-9879764546f9" alt="깃헙 클래스룸 레포 생성" width="600" />
+<img src="https://github.com/user-attachments/assets/b5a7f34a-e146-4253-b57d-672737a75a50" alt="깃헙 클래스룸 레포 생성" width="600" />
 
 - 레포지토리 생성 시 팀명은 `TEAM-{조 번호}` 형식으로 생성하세요.
 - 예를 들어, 2024년도 1학기(전기) 3조의 팀명은 `TEAM-03` 입니다.
@@ -31,10 +31,10 @@
 - **`[주의]` 레파지토리 제출**은 해당 레파지토리의 ownership을 **학과 계정**으로 넘기는 것이므로 되돌릴 수 없습니다.
 - **레파지토리 제출** 전, 더 이상 수정 사항이 없는지 다시 한번 확인하세요.
 - github 레파지토리에서 Settings > General > Danger zone > Transfer 클릭
-  <img src="https://github.com/user-attachments/assets/e2149251-90eb-4924-a7b5-fc077cfddc2a" alt="소유주 변경 경로" width="500" />
-
+  <img src="https://github.com/user-attachments/assets/cb2361d4-e07e-4b5d-9116-aa80dddd8a8b" alt="소유주 변경 경로" width="500" />
+  
 - [ Specify an organization or username ]에 'PNUCSE'를 입력하고 확인 메세지를 입력하세요.
-  <img src="https://github.com/user-attachments/assets/dc2a5bc5-bfa9-464b-8c14-382816613b4e" alt="소유주 변경" width="400" />
+  <img src="https://github.com/user-attachments/assets/7c63955d-dcfe-4ac3-bdb6-7d2620575f3a" alt="소유주 변경" width="400" />
 
 ---
 
@@ -154,14 +154,14 @@ int main(void){
 ### 5.5. 링크 Link
 ```
 [Title](link)
-[부산대 소프트웨어융합교육원](https://swedu.pusan.ac.kr/swedu/index.do)
+[부산대학교 정보컴퓨터공학부](https://cse.pusan.ac.kr/cse/index..do)
 
 <link>
-<https://swedu.pusan.ac.kr>
+<https://cse.pusan.ac.kr/cse/index..do>
 ``` 
-[부산대 소프트웨어융합교육원](https://swedu.pusan.ac.kr)
+[부산대학교 정보컴퓨터공학부](https://cse.pusan.ac.kr/cse/index..do)
 
-<https://swedu.pusan.ac.kr>
+<https://cse.pusan.ac.kr/cse/index..do>
 <br />
 
 ### 5.6. 강조 Highlighting
@@ -186,8 +186,8 @@ __double underscores__ <br />
 ```
 - 웹에서 작성한다면 README.md 내용 안으로 이미지를 드래그 앤 드롭하면 이미지가 생성됩니다.
 - 웹이 아닌 로컬에서 작성한다면, github issue에 이미지를 드래그 앤 드롭하여 image url 을 얻을 수 있습니다. (URL만 복사하고 issue는 제출 안 함.)
-  <img src="https://github.com/user-attachments/assets/6b050cbc-9885-4dbf-ab26-4bf5051364ea" alt="이슈에 image 올림" width="600" />
-  <img src="https://github.com/user-attachments/assets/1b7638cf-d45d-47ca-b70c-2df75fbb4a38" alt="image url 복사" width="600" />
+  <img src="https://github.com/user-attachments/assets/0fe3bff1-7a2b-4df3-b230-cac4ef5f6d0b" alt="이슈에 image 올림" width="600" />
+  <img src="https://github.com/user-attachments/assets/251c6d42-b36b-4ad4-9cfa-fa2cc67a9a50" alt="image url 복사" width="600" />
 
 
 ### 5.8. 유튜브 영상 추가
